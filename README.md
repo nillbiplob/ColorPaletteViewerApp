@@ -5,6 +5,7 @@ A minimal yet powerful Flutter and SwiftUI demo that dynamically visualizes colo
 Flutter (Android/iOS)	SwiftUI (iOS/macOS)
 
 
+
 🚀 Features
 ✅ Load palettes from structured JSON
 ✅ Group palettes into named categories with horizontal tabs
